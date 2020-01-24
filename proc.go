@@ -21,8 +21,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/prometheus/procfs/internal/fs"
-	"github.com/prometheus/procfs/internal/util"
+	"github.com/NodeSpy/procfs/internal/fs"
+	"github.com/NodeSpy/procfs/internal/util"
 )
 
 // Proc provides information about a running process.
